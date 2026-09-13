@@ -1,0 +1,11 @@
+Resource Planning Details
+
+Project: PMO-Office
+
+Resources:
+1. Project Manager
+2. Planning Team
+3. Inventory Manager
+4. Technical Support Team
+
+Resource Status: Allocated
