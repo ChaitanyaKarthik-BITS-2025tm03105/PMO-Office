@@ -1,0 +1,12 @@
+Project Planning Details
+
+Project Name: PMO-Office
+Project Type: Planning and Inventory Management
+
+Tasks:
+1. Project Planning
+2. Inventory Management
+3. Resource Allocation
+4. Progress Tracking
+
+Status: In Progress
